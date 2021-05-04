@@ -1,4 +1,4 @@
-Hi, my name is Giuditta.
+:wave: Hi, my name is **Giuditta**.
 I have a background in physics, 
 science journalism, and the history of science.
 
