@@ -1,7 +1,6 @@
 :wave: Hi, my name is **Giuditta**.
 
-I have a background in physics, 
-science journalism, and the history of science.
+I work as a data scientist in biodiversity informatics.
 
 **I am interested in all sorts of challenging data problems.**
 
